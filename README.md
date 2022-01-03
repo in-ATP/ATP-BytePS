@@ -22,7 +22,7 @@ sudo -E CUDA_VISIBLE_DEVICES=0 DMLC_WORKER_ID=1 DMLC_NUM_WORKER=2 DMLC_INTERFACE
 ```
 
 ## Run Parameter Server 
-#### Compile and Run Server (Terminal4)
+#### Compile and Run Server
 ```
 $ cd $ATP_REPO/server/
 ```
