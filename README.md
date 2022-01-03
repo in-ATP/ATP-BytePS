@@ -1,6 +1,6 @@
 # ATP-BytePS
 
-ATP-BytePS is the endhost training system developed for the paper in [NSDI21']((https://www.usenix.org/conference/nsdi21/presentation/lao)). This is based on [BytePS v0.2.4](https://github.com/bytedance/byteps/tree/v0.2.4) substituting PS-lite communication library to ATP communication library. 
+ATP-BytePS is the endhost training system developed for the paper in [NSDI21]((https://www.usenix.org/conference/nsdi21/presentation/lao)). This is based on [BytePS v0.2.4](https://github.com/bytedance/byteps/tree/v0.2.4) substituting PS-lite communication library to ATP communication library. 
 
 ## Worker Installation
 ### Build from source code
